@@ -1,0 +1,51 @@
+th style="widt=response.th style="widt=
+th style="widt=response.th style="widt=
+th style="widt=response.th style="widt=
+th style="widt=response.th style="widt=
+th style="widt=response.th style="widt=
+th style="widt=response.th style="widt=
+th style="widt=response.th style="widt=
+th style="widt=response.th style="widt=
+th style="widt=response.th style="widt=
+th style="widt=response.th style="widt=
+
+
+
+
+CO.innerHTML=response.CO
+    concentration.innerHTML=response.concentration
+    aqi.innerHTML=response.aqi
+  
+  NO2.innerHTML=response.NO2
+    concentration.innerHTML=response.concentration
+    aqi.innerHTML=response.aqi
+  
+  O3.innerHTML=response.O3
+    concentration.innerHTML=response.concentration
+    aqi.innerHTML=response.aqi
+  
+  SO2.innerHTML=response.SO2=
+    concentration.innerHTML=response.concentration
+    aqi.innerHTML=response.aqi
+  
+  PM2.5.innerHTML=response.PM2.5
+    concentration.innerHTML=response.concentration
+    aqi.innerHTML=response.aqi
+  
+  PM10.innerHTML=response.PM10
+    concentration.innerHTML=response.concentration
+    aqi.innerHTML=response.aqi
+  
+  overall_aqi=response.overall_aqi
+
+
+cloud_pct=response.cloud_pct
+  temp=response.temp
+  feels_like=response.feels_like
+  humidity=response.humidity
+  min_temp=response.min_temp
+  max_temp=response.max_temp
+  wind_speed=response.wind_speed
+  wind_degrees=response.wind_degrees
+  sunrise=response.sunrise
+  sunset=response.sunset
